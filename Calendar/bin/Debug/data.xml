@@ -2,8 +2,8 @@
 <PlanData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Job>
     <PlanItem>
-      <Date>2021-05-06T22:01:49.6303533+07:00</Date>
-      <Job>Thử nghiệm thôi</Job>
+      <Date>2021-05-06T22:18:15.2016203+07:00</Date>
+      <Job>Empty</Job>
       <FromTime>
         <X>4</X>
         <Y>0</Y>
@@ -15,4 +15,5 @@
       <Status>COMING</Status>
     </PlanItem>
   </Job>
+</PlanData>b>
 </PlanData>
