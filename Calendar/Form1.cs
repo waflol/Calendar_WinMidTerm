@@ -82,7 +82,16 @@ namespace Calendar {
             if (string.IsNullOrEmpty((sender as Button).Text))
                 return;
             DailyPlan daily = new DailyPlan(new DateTime(dtpkDate.Value.Year, dtpkDate.Value.Month, Convert.ToInt32((sender as Button).Text)), Job);
-            daily.ShowDialog();
+            try
+            {
+                daily.ShowDialog();
+            }
+            catch(Exception er)
+            {
+                MessageBox.Show("Nhập thiếu thông tin bro!! Vui lòng nhập lại!!", "Warning!", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+            }
+    
+           
         }
 
         int DayOfMonth(DateTime date) {

@@ -58,7 +58,6 @@ namespace Calendar {
             Job.FromTime = new Point((int)nmFromHours.Value, (int)nmFromMinute.Value);
             Job.ToTime = new Point((int)nmToHours.Value, (int)nmToMinute.Value);
             Job.Status = PlanItem.ListStatus[cbStatus.SelectedIndex];
-
             if (edited != null)
                 edited(this, new EventArgs());
         }

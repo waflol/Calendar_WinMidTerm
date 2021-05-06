@@ -7,3 +7,12 @@ C:\Users\giauj\Source\Repos\waflol\Calendar_WinMidTerm\Calendar\obj\Debug\Calend
 C:\Users\giauj\Source\Repos\waflol\Calendar_WinMidTerm\Calendar\obj\Debug\Calendar.csproj.CoreCompileInputs.cache
 C:\Users\giauj\Source\Repos\waflol\Calendar_WinMidTerm\Calendar\obj\Debug\Calendar.exe
 C:\Users\giauj\Source\Repos\waflol\Calendar_WinMidTerm\Calendar\obj\Debug\Calendar.pdb
+E:\Giau_clone\Calendar_WinMidTerm\Calendar\bin\Debug\Calendar.exe.config
+E:\Giau_clone\Calendar_WinMidTerm\Calendar\bin\Debug\Calendar.exe
+E:\Giau_clone\Calendar_WinMidTerm\Calendar\bin\Debug\Calendar.pdb
+E:\Giau_clone\Calendar_WinMidTerm\Calendar\obj\Debug\Calendar.csprojAssemblyReference.cache
+E:\Giau_clone\Calendar_WinMidTerm\Calendar\obj\Debug\Calendar.Properties.Resources.resources
+E:\Giau_clone\Calendar_WinMidTerm\Calendar\obj\Debug\Calendar.csproj.GenerateResource.cache
+E:\Giau_clone\Calendar_WinMidTerm\Calendar\obj\Debug\Calendar.csproj.CoreCompileInputs.cache
+E:\Giau_clone\Calendar_WinMidTerm\Calendar\obj\Debug\Calendar.exe
+E:\Giau_clone\Calendar_WinMidTerm\Calendar\obj\Debug\Calendar.pdb
